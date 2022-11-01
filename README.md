@@ -2,7 +2,7 @@
 
 ---
 
-✅ My Specialites:<p/>
+✅ My Specialities:<p/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" height=75 />
 <img src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg" height=75/>
 <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" height=75/>
