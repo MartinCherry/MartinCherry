@@ -1,38 +1,20 @@
-### Hi there 👋, I'm Martins Kirsis
+### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Martins Kirsis 
 
+Software developer
 ---
+I'm passionate software developer with strong will to learn new things every day.  
+* 🌍  I'm based in I'm based in Latvia, Riga 
+* 🚀  I'm currently working on [Flight Planner App](http://github.com/MartinCherry/flight-planner) 
+* 🧠  I'm learning to get better than I was yesterday.
 
-✅ My Specialities:<p/>
-<img src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" height=75 />
-<img src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg" height=75/>
-<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" height=75/>
-<img src="https://res.cloudinary.com/nitishk72/image/upload/v1586796259/nstack_in/courses/flutter/flutter-banner.png" height=75/>
+### Skills 
 
+<p align="left"> <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a> <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a> </p>
 
----
-📫 How to reach me:
-<p>
-  <a href="https://www.linkedin.com/in/martins-kirsis/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" height=20 alt="linkedin"> LinkedIn 
-  </a> &nbsp; 
+### Socials
+
+ <p align="left"> <a href="https://www.facebook.com/martins.kirsis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/MartinCherry" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/martins-kirsis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
  
-  <a href="mailto:martins.kirsis@gmail.com" rel="nofollow noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/552/552486.png" height=20 alt="gmail"> E-mail
-  </a>
- 
-</p>
+### Badges
 
-<!--
-**MartinCherry/MartinCherry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/MartinCherry" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinCherry&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
