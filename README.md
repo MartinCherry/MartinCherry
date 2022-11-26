@@ -5,7 +5,7 @@
 I'm passionate software developer with strong will to learn new things every day.  
 * 🌍  I'm based in Latvia, Riga 
 * 🚀  I'm currently working on [Flight Planner App](http://github.com/MartinCherry/flight-planner) 
-* 🏆  My most recent project [IP address checker](https://github.com/MartinCherry/IP_Address_Check)
+* 🏆  My most recent project [Wishlist Example](https://github.com/MartinCherry/wishlist-example)
 * 🧩  My other projects you can find lower.
 * 🧠  I'm learning to get better than I was yesterday.
 
